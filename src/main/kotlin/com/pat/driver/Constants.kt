@@ -1,4 +1,4 @@
-package com.pat.driver.ina219
+package com.pat.driver
 
 const val INA219_ADDRESS = 0x40
 const val INA219_READ = 0x01

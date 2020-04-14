@@ -1,4 +1,4 @@
-package com.pat.driver.ina219
+package com.pat.driver
 
 data class Calibration(
     val calValue: Int,

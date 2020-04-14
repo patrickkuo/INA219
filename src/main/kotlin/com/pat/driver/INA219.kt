@@ -1,4 +1,4 @@
-package com.pat.driver.ina219
+package com.pat.driver
 
 import com.pi4j.io.i2c.I2CBus
 import com.pi4j.io.i2c.I2CFactory
